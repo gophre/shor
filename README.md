@@ -1,5 +1,6 @@
-# go-shor
-Shor's algorithm to factorize a number N
+# shor's algorithm in golang
+
+Used to factorize a number N
 
 ```go
 package main
